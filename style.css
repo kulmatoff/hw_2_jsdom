@@ -1,0 +1,22 @@
+.form {
+    width: 20%;
+    border: green solid 2px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 15%;
+}
+
+#error {
+    border: red solid 2px;
+    margin: auto;
+}
+
+input {
+    border-radius: 5px;
+    border: solid gray 1px;
+}
+
+input:invalid {
+    border: solid red 1px;
+    background-color: yellow;
+}

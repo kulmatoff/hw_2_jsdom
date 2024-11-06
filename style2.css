@@ -1,0 +1,5 @@
+select {
+    border: solid gray 1px;
+    background-color: white;
+    border-radius: 50px;
+}
